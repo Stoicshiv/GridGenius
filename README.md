@@ -1,4 +1,4 @@
-**Welcome to  repository
+**Welcome to this  repository
 
 ABOUT by project
 This is a **GridGenius** is IOT  free AI System which is designed to help users that power is efficiently used in public places
