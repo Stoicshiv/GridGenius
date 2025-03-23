@@ -1,4 +1,4 @@
-**Welcome to my repository
+**Welcome to  repository
 
 ABOUT by project
 This is a **GridGenius** is IOT  free AI System which is designed to help users that power is efficiently used in public places
@@ -51,7 +51,7 @@ git commit -m "Added a new feature"
 Step 6: Push Changes to Your Fork
 git push origin feature-branch
 
-Step 7: Create a Pull Request (PR)
+Step 7: Create Pull Request (PR)
 Go to the original repository on GitHub.
 Click "Compare & pull request".
 Add a title and description for your PR.
